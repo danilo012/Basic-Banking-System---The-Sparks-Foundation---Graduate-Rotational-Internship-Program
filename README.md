@@ -2,7 +2,7 @@
 ## The Sparks Foundation
 ### Graduate Rotational Internship Program
 *A simple dynamic banking system website to transfer money between multiple users.* <br/> <br/>
-###TECH STACK
+### TECH STACK
 **- fRONT END**
     - HTML
     - CSS
