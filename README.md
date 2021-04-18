@@ -3,7 +3,7 @@
 ### Graduate Rotational Internship Program
 *A simple dynamic banking system website to transfer money between multiple users.* <br/> <br/>
 ### TECH STACK
-**- fRONT END**
+**- FRONT END**
     - HTML
     - CSS
     - Javascript <br/> <br/>
