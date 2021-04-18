@@ -1,15 +1,15 @@
 # BASIC BANKING SYSTEM
 ## The Sparks Foundation
 ### Graduate Rotational Internship Program
-*A simple dynamic banking system website to transfer money between multiple users.* <br/>
+*A simple dynamic banking system website to transfer money between multiple users.* <br/> <br/>
 ###TECH STACK
-**-fRONT END**
- -HTML
- -CSS
- -Javascript <br/>
-**-BACK END**
- -PHP <br/>
-**-DATABASE**
- -MySQL <br/>
-*Flow of the Website: Home Page -> View all Users -> Select and View one User -> Transfer Money -> Select reciever -> View all Users -> View Transfer History.* <br/>
+**- fRONT END**
+    - HTML
+    - CSS
+    - Javascript <br/> <br/>
+**- BACK END**
+    - PHP <br/> <br/>
+**- DATABASE**
+    - MySQL <br/> <br/>
+*Flow of the Website: Home Page -> View all Users -> Select and View one User -> Transfer Money -> Select reciever -> View all Users -> View Transfer History.* <br/> <br/>
 Created by [Jeevankarthick B](https://www.linkedin.com/in/jeevankarthick-b/)
